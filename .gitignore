@@ -1,0 +1,5 @@
+.vscode/
+images/
+main
+*.o
+build/
